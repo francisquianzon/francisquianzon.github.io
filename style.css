@@ -1,3 +1,13 @@
 body{
-	background-color: pink;
+	background-color: #639c3a;
+}
+
+h1{
+	text-align: center;
+	color: #8763a3;
+}
+
+p{
+	text-align: center;
+	color: #8763a3;
 }
